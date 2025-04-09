@@ -36,7 +36,7 @@
 </head>
 <body>
   <!-- Logo agregado -->
-  <img src="https://chat.openai.com/mnt/data/okey_bukanero_logo.jpg" alt="Logo Okey Bukanero">
+  <img src="logo.png" alt="Logo Okey Bukanero">
 
   <h1>Okey Bukanero - En Vivo</h1>
   <audio controls autoplay>
