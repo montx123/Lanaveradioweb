@@ -36,7 +36,7 @@
 </head>
 <body>
   <!-- Logo agregado -->
-
+<img src="logo.png" alt="Logo Okey Bukanero">
 
   <h1>Okey Bukanero - En Vivo</h1>
   <audio controls autoplay>
