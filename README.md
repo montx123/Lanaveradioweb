@@ -1,9 +1,8 @@
- <!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Okey Bukanero Radio</title>
+  <title></title>
   <style>
     body {
       background-color: #121212;
@@ -21,6 +20,10 @@
       font-size: 2rem;
       color: #00ffe1;
     }
+    img {
+      max-width: 250px;
+      margin-bottom: 20px;
+    }
     audio {
       width: 90%;
       max-width: 400px;
@@ -32,10 +35,13 @@
   </style>
 </head>
 <body>
+  <!-- Logo agregado -->
+  <img src="https://chat.openai.com/mnt/data/okey_bukanero_logo.jpg" alt="Logo Okey Bukanero">
+
   <h1>Okey Bukanero - En Vivo</h1>
   <audio controls autoplay>
     <source src="https://stream.zeno.fm/utaaqemlboovv" type="audio/mpeg">
     Tu navegador no soporta audio en línea.
   </audio>
 </body>
-</html> 
+</html>
