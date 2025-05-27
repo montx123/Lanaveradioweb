@@ -36,7 +36,7 @@
 </head>
 <body>
   <!-- Logo agregado -->
-<img src="logo.png" alt="Logo Okey Bukanero">
+<img src="la_nave_logo.png" alt="Logo La Nave Radio Web">
 
   <h1>Escuchanos en vivo</h1>
   <audio controls autoplay>
